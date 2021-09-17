@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://hr-userdb-pg13:5432/db_hr_user
+    url: jdbc:postgresql://hr-userdb-pg13:5433/db_hr_user
     username: admin
     password: 1234567
   
